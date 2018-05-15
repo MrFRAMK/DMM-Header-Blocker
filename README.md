@@ -13,6 +13,9 @@ DMMGAMESのヘッダーを非表示にするChrome拡張です。
 DMMゲームのページを開くと自動でヘッダーが非表示になります。  
 再表示したい場合はアドレスバー右のDというアイコンをクリックしてください。
 
+## 使用例
+[![https://gyazo.com/6f7c5cafa15230905cf9aa7922e90f00](https://i.gyazo.com/6f7c5cafa15230905cf9aa7922e90f00.gif)](https://gyazo.com/6f7c5cafa15230905cf9aa7922e90f00)
+
 ## 削除方法
 拡張機能のページでDMM Header Blockerの削除をクリックすることで削除できます。
 
