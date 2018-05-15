@@ -13,7 +13,8 @@
     {
       "matches": [
         "http://pc-play.games.dmm.com/play/*",
-        "http://pc-play.games.dmm.co.jp/play/*"
+        "http://pc-play.games.dmm.co.jp/play/*",
+        "http://www.dmm.com/netgame/social/*"
       ],
       "js": ["js/jquery-2.1.1.min.js","js/main.js"]
     }
